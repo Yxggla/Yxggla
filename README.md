@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yxggla
 - 👀 I’m interested in Mac and LOL ~~
-- 🌱 I’m currently learning React and AIGC
+- 🌱 I’m currently learning React and AIDM
 - 📫 How to reach me wechat in china Yxggpoqo
 
 <!---
