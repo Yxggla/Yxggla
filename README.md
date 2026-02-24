@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yxggla
-- 👀 I’m interested in Mac and LOL ~~
 - 🌱 I’m currently learning AIDM
 - 📫 How to reach me wechat in china Yxggpoqo
 
