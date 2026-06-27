@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning AIDM
 - 📫 How to reach me wechat in china Yxggpoqo
 
-## AI Coding Stats
+## AI Coding Stats (Combined)
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Yxggla/svg?template=classic&color=blue&graph=1&compact=1)](https://tokscale.ai/u/Yxggla)
 
