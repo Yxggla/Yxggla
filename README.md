@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yxggla
-- 🌱 I’m currently learning AIDM
+- 🌱 I’m AI Application Engineer
 - 📫 How to reach me wechat in china Yxggpoqo
 
 ## AI Coding Stats
